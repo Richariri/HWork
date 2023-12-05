@@ -43,11 +43,11 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 ### Mock-Up
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web linkboxlication's linkboxearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web linkboxlication is optimized for any screen size.
 
 ### Getting Started
 
@@ -65,9 +65,9 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 
 You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
 
-> **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
+> **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your linkboxlication are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
 
-Be sure to add, commit, and push your work to see the most up-to-date version of your app!
+Be sure to add, commit, and push your work to see the most up-to-date version of your linkbox!
 
 ### Requirements
 
@@ -77,25 +77,25 @@ This challenge is assessed on the following criteria:
 
 * Satisfies all of the above acceptance criteria plus the following code improvements:
 
-  * Application's links all function correctly.
+  * linkboxlication's links all function correctly.
 
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+  * linkboxlication's CSS selectors and properties are consolidated and organized to follow semantic structure.
 
-  * Application's CSS file is properly commented.
+  * linkboxlication's CSS file is properly commented.
 
 #### Deployment: 32%
 
-* Application deployed at live URL.
+* linkboxlication deployed at live URL.
 
-* Application loads with no errors.
+* linkboxlication loads with no errors.
 
-* Application GitHub URL submitted.
+* linkboxlication GitHub URL submitted.
 
-* GitHub repository that contains application code.
+* GitHub repository that contains linkboxlication code.
 
-#### Application Quality: 15%
+#### linkboxlication Quality: 15%
 
-* Application resembles (at least 90%) screenshots provided in the challenge instructions.
+* linkboxlication resembles (at least 90%) screenshots provided in the challenge instructions.
 
 #### Repository Quality: 13%
 
@@ -107,13 +107,13 @@ This challenge is assessed on the following criteria:
 
 * Repository contains multiple descriptive commit messages.
 
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+* Repository contains quality README file with description, screenshot, and link to deployed linkboxlication.
 
 ### Review
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed linkboxlication.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
