@@ -1,22 +1,23 @@
 * {
   list-style-type: none;
-  /* border: 1px solid red; */
+  Transition: all 0.5s ease-in-out:
 }
 
 /* styling for navbar with name title */
+header {
+  position: absolute;
+  top: 0 ;
+}
 .navbar {
-  /* display: inline-block; */
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   position: relative;
   margin: 0 auto;
-  font-size: 28px;
-  padding: 15px;
+  padding: 5px;
 }
 .navbar h1 {
-  /* position: relative; */
   text-decoration: underline;
   margin: 0;
 }
@@ -26,9 +27,8 @@
 }
 .navbar a {
   text-decoration: none;
-  /* text-align: right; */
+  font-size: 15px;
 }
-
 /* style for logo  */
 .logo {
   max-height: 80px;
@@ -37,7 +37,7 @@
   border-radius: 20px;
   box-shadow: -2px 0px 20px black;
   margin: 15px;
-  margin-bottom: -4%;
+  margin-bottom: -6%;
 }
 
 nav {
@@ -49,11 +49,14 @@ nav {
 nav a {
   margin: 5px 20px;
   font-size: 1.8rem;
+  text-decoration: none;
+  font-size: 15px;
 }
 
 
 /* Page Banner with catchphrase */
-h1 {
+h2 {
+  font-size: 20px;
   padding: 10px;
 }
 .banner {
@@ -78,14 +81,14 @@ main {
   justify-content: space-between;
   flex-wrap: wrap;
   margin-top: 40px;
-  margin-right: 10px;
+  margin-right: 5%;
 }
 
 section {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  margin: 4vh auto;
+  margin: 10px auto;
 }
 
 .col1 {
@@ -97,6 +100,7 @@ section {
 
 .col2 {
   width: 70%;
+  font-size: medium;
 }
 
 #work {
@@ -121,7 +125,8 @@ section {
 
 .linkbox > img {
   width: 100%;
-  max-height: fit-content;
+  height: 200px;
+  padding: 10px;
 }
 
 .linkbox :hover {
@@ -133,7 +138,10 @@ section {
   z-index: 1;
   background: rgba(255,255,255,0.6);
   padding: 10px;
-
   bottom: 25px;
   left: 10px;
+}
+
+a {
+  color: black;
 }
