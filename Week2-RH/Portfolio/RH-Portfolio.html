@@ -13,50 +13,111 @@
 <body>
   <!-- main logo / nav -->
   <header class="navbar">
-    <h1>Richard Hariri</h1>
-    <nav class="navbar">
-      <li>
-        <a href="#about-me">About Me </a>
-        <a href="#work">Work </a>
-        <a href="#contact">Contact Me </a>
-      </li>
+    <h1 style="padding: 10px;"><img class="logo" src="./images/lion.jpg" tag="Hariri logo">Richard Hariri</h1>
+    <nav>
+      <a href="#about-me">About Me</a>
+      <a href="#work">Work</a>
+      <a href="#contact">Contact Me</a>
     </nav>
   </header>
 
   <!-- hero banner -->
-  <section class="banner">
+  <div class="banner">
     <div>
       <h2>Improving Skills beyond the voltmeter</h2>
     </div>
-  </section>
+  </div>
 
-  <main class="page-wrapper">
+  <main>
+
     <!-- about me -->
-    <section class="page-section" id="about-me">
-      <div class="side1G">
+    <section id="about-me">
+      <div class="col1">
         <h2>About Me</h2>
       </div>
-      <p class="aboutbodyG">
-        Customer satisfaction focused support professional with 11+ years experience in MFD electro/mechanical repair and 2+ years experience in Professional Services managed print solution installation and remote support. 
-      </p>
+      <div class="col2">
+        <p>
+          Customer satisfaction focused support professional with 11+ years experience in MFD electro/mechanical repair
+          and 2+ years experience in Professional Services managed print solution installation and remote support.
+        </p>
+      </div>
     </section>
 
     <!-- portfolio container -->
-    <section class="page-section" id="work">
-      <div class="side2G">
+    <section>
+      <div class="col1">
         <h2>Work</h2>
-        <div class="mainitem">
-
+      </div>
+      <div id="work" class="col2">
+        <div class="linkbox">
+          <img src="./images/02-portfolio-3.jpg" alt="">
+          <div class="info">
+            <h2>Surf Report</h2>
+            <p>
+              <Description>MERH Stack</Description>
+            </p>
+            <button id="github">Github</button><button id="website">Website</button>
+          </div>
+        </div>
+        <div class="linkbox">
+          <img src="./images/02-portfolio-1.jpg" alt="">
+          <a href="###">
+            <div class="info">
+              <h2>LED wall</h2>
+              <p>
+                <Description>node / IoT</Description>
+              </p>
+            </div>
+          </a>
+        </div>
+        <div class="linkbox">
+          <img src="./images/02-portfolio-2.jpg" alt="">
+          <a href="###">
+            <div class="info">
+              <h2>Calculator</h2>
+              <p>
+                <Description>react / javascript / CSS</Description>
+              </p>
+            </div>
+          </a>
+        </div>
+        <div class="linkbox">
+          <img src="./images/02-portfolio-4.jpg" alt="">
+          <a href="###">
+            <div class="info">
+              <h2>Pastel Puzzle</h2>
+              <p>
+                <Description>MERN Stack</Description>
+              </p>
+            </div>
+          </a>
+        </div>
+        <div class="linkbox">
+          <img src="./images/winter.jpg" alt="">
+          <a href="###">
+            <div class="info">
+              <h2>Run Buddy</h2>
+              <p>
+                <Description>HTML / CSS</Description>
+              </p>
+            </div>
+          </a>
         </div>
       </div>
     </section>
 
     <!-- contact -->
-    <section class="page-section contact" id="contact">
-      <div class="side3G">
+    <section id="contact">
+      <div class="col1">
         <h2>Contact Me</h2>
       </div>
+      <div class="col2">
+        <ul>
+          <li>TBC</li>
+        </ul>
+      </div>
     </section>
+
   </main>
 
 </body>
