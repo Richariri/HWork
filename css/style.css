@@ -92,6 +92,7 @@ section {
   margin: 10px auto;
 }
 
+/* flexbox columns */
 .col1 {
   width: 20%;
   text-align: right;
@@ -104,6 +105,7 @@ section {
   font-size: medium;
 }
 
+/* pseudo classes for attributing style to secondary flexbox */
 #work {
   display: flex;
   flex-wrap: wrap;
@@ -141,8 +143,4 @@ section {
   padding: 10px;
   bottom: 25px;
   left: 10px;
-}
-
-a {
-  color: black;
 }
