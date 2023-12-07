@@ -1,6 +1,5 @@
 * {
   list-style-type: none;
-  /* Transition: all 0.5s ease-in-out: */
 }
 
 /* styling for navbar with name title */
@@ -29,6 +28,8 @@ header {
   text-decoration: none;
   font-size: 15px;
 }
+
+
 /* style for logo  */
 .logo {
   max-height: 80px;
@@ -56,7 +57,7 @@ nav a {
 
 /* Page Banner with catchphrase */
 h2 {
-  font-size: 20px;
+  font-size: 22px;
   padding: 10px;
 }
 .banner {
